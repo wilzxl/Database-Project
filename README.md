@@ -8,3 +8,7 @@ One uses a webpage programmed by JSP connected with mysql to access to informati
 
 Some functions are designed, including login, logout,
 register as users, get admin previlege, query player and team information, query score of any specific game, etc.
+
+UML.jpg is the relational database schema.
+
+NOTE: The web version uses TOMCAT 8.0 and css-bootstrap.
