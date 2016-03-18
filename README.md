@@ -11,4 +11,4 @@ register as users, get admin previlege, query player and team information, query
 
 UML.jpg is the relational database schema.
 
-NOTE: The web version uses TOMCAT 8.0 and css-bootstrap.
+#NOTE: The web version uses TOMCAT 8.0 and css-bootstrap.
